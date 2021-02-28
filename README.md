@@ -1,8 +1,8 @@
 # Support Vector Regression - Da Classificação para a Regressão
 
 ## Objetivos
-Pretendo iniciar com as defini¸c˜oes do problema para classifica¸c˜ao, e utilizar estas no¸c˜oes para intuir o problema de
-regress˜ao, que, por defini¸c˜ao, herda propriedades do primeiro.
+Pretendo iniciar com as definições do problema para classificação e utilizar estas noções para intuir o problema de
+regressão, que, por definição, herda propriedades do primeiro.
 
 ## Separando hiperplanos
 ![](/images/im1.png)
